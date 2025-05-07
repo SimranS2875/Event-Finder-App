@@ -46,7 +46,7 @@ event-finder/ # Frontend React application
 │ ├── styles/ # CSS files
 │ ├── utils/ # Utility functions
 │ └── App.js # Main application component
-└── package.json
+├── package.json
 
 server-side/ # Backend Node.js application
 ├── controllers/ # Request handlers
