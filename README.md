@@ -34,28 +34,7 @@
 
 ---
 
-## 📁 Project Structure
-
-event-finder/ # Frontend React application
-├── public/
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── context/ # Context providers
-│ ├── pages/ # Page components
-│ ├── services/ # API service functions
-│ ├── styles/ # CSS files
-│ ├── utils/ # Utility functions
-│ └── App.js # Main application component
-├── package.json
-
-server-side/ # Backend Node.js application
-├── controllers/ # Request handlers
-├── middleware/ # Custom middleware
-├── models/ # MongoDB schemas
-├── routes/ # API route definitions
-└── server.js # Entry point
-
-
+<pre> ## 📁 Project Structure ``` event-finder/ # Frontend React application ├── public/ ├── src/ │ ├── components/ # Reusable UI components │ ├── context/ # Context providers │ ├── pages/ # Page components │ ├── services/ # API service functions │ ├── styles/ # CSS files │ ├── utils/ # Utility functions │ └── App.js # Main application component ├── package.json server-side/ # Backend Node.js application ├── controllers/ # Request handlers ├── middleware/ # Custom middleware ├── models/ # MongoDB schemas ├── routes/ # API route definitions └── server.js # Entry point ``` </pre>
 ---
 
 ## ⚙️ Setup Instructions
