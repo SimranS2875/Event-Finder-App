@@ -1,6 +1,6 @@
-# Event Finder
+# Event Finder App
 
-Event Finder is a full-stack web application that allows users to discover, create, and manage events. 
+Event Finder App is a full-stack web application that allows users to discover, create, and manage events. 
 
 ## Features
 
@@ -31,7 +31,7 @@ Event Finder is a full-stack web application that allows users to discover, crea
 ## Project Structure
 
 ```
-event-finder/           # Frontend React application
+event-finder-app/           # Frontend React application
   ├── public/
   ├── src/
   │   ├── components/   # Reusable UI components
@@ -62,7 +62,7 @@ server-side/            # Backend Node.js application
 1. Clone the repository:
    ```
    git clone https://github.com/SimranS2857/Event-Finder-App.git
-   cd Event-Finder
+   cd Event-Finder-App
    ```
 
 2. Install backend dependencies:
